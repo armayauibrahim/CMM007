@@ -10,8 +10,8 @@
 <p>Please input the following information</p>
 
 <form action="insert.php" method="post">
-<input type="text" name="firstname" placeholder="First Name">
-    <input type="text" name="lastname" placeholder="Last Name">
+<input type="text" name="firstname" placeholder="First Name"><br>
+    <input type="text" name="lastname" placeholder="Last Name"><br>
     <input type="submit" value="submit">
 
 </form>
