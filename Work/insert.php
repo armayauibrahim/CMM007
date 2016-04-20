@@ -1,6 +1,6 @@
 <?php
 
-include (db_connect.php);
+include ("connect.php");
 
 if ((empty($_POST['firstname']))||(empty($_POST['lastname']))){
     echo "Both fields are required";

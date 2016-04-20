@@ -1,5 +1,5 @@
 <?php
-include ("db_connect.php");
+include ("connect.php");
 
 $sql_query = "SELECT * FROM forms";
 
