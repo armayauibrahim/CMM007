@@ -5,5 +5,5 @@ define (DB_USERNAME, 'b48fad490ff0b1');
 define (DB_PASSWORD, '0ffa09c0');
 define (DB_DATABASE, 'allmywork');
 
-$DB = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+$db = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 ?>
