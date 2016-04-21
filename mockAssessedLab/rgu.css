@@ -1,0 +1,52 @@
+*{
+
+}
+
+body{
+    width: 960px;
+}
+.zero{
+    width: 960px;
+    background-color:lightgray ;
+    text-align:center ;
+    text-decoration: none;
+    margin-bottom: 5px;
+
+}
+.bigbanner{
+    border-width: thin;
+    width: 960px;
+    border-style: dashed;
+}
+.one {
+    width: 66%;
+    background-color: aqua;
+    text-align: justify;
+    border-style: dashed;
+    border-width: thin;
+    position: relative;
+
+}
+.christy{
+    float: left;
+    width: 200px;
+}
+.two{
+    width: 33%;
+    float: right;
+    background-color: chartreuse;
+    border-style: dashed;
+    border-width: thin;
+    position: relative;
+
+}
+.foot{
+    width: 960px;
+    height: 40px;
+    background-color: greenyellow;
+    text-align: center;
+    padding-top: 5px;
+    border-width: thin;
+    position: relative;
+    border-color: aqua;
+}
