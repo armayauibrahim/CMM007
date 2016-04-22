@@ -30,6 +30,7 @@ body{
 .christy{
     float: left;
     width: 200px;
+    border: dashed;
 }
 .two{
     width: 33%;
