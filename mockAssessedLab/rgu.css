@@ -6,11 +6,13 @@ body{
     width: 960px;
 }
 .zero{
-    width: 960px;
+    width: 900px;
     background-color:lightgray ;
     text-align:center ;
+    font-size: 20px;
     text-decoration: none;
     margin-bottom: 5px;
+    padding: 0px 20px 20px 20px;
 
 }
 .bigbanner{
@@ -19,14 +21,20 @@ body{
     border-style: dashed;
 }
 .one {
-    width: 66%;
-    background-color: aqua;
+    width: 42%;
     text-align: justify;
     border-style: dashed;
     border-width: thin;
-    position: relative;
+    padding: 10px;
+    display: inline-block;
 
 }
+.three{
+    float: left;
+    width: 65%;
+}
+
+
 .christy{
     float: left;
     width: 200px;
@@ -38,16 +46,22 @@ body{
     background-color: chartreuse;
     border-style: dashed;
     border-width: thin;
-    position: relative;
+    margin-top: 0px;
+    padding: 5px;
 
 }
+.three{
+    width: 66%;
+    background-color: bisque;
+    float: left;
+}
 .foot{
-    width: 960px;
-    height: 40px;
+    
     background-color: greenyellow;
     text-align: center;
+    width: 960px;
     padding-top: 5px;
     border-width: thin;
-    position: relative;
     border-color: aqua;
+    height: 10%;
 }
