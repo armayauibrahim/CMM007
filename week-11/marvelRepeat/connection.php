@@ -6,9 +6,9 @@
  * Time: 13:31
  */
 define ('SERVER','ap-cdbr-azure-east-c.cloudapp.net' );
-define ('USER','b28b1ba3c7f01f');
-define ('PASSWORD','12d5f6d8');
-define ('HOST','creamy');
+define ('USER','b3a465ce6af9b4');
+define ('PASSWORD','3ebfd1d6');
+define ('HOST','CMM007ALDB-1513072');
 $sercon=mysqli_connect (SERVER,USER,PASSWORD,HOST);
 
 /*if ($sercon->connect_error) {
